@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+Handoff.md
+.env
+.env.*
+*.log
+*.sqlite3
+*.sqlite3-*
+ws_sessions.json
+*.lock
